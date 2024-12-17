@@ -1,0 +1,30 @@
+{
+	"name": "bars-service.charly.dalagon",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"start": "nodemon server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"csv-parser": "^3.0.0",
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"fast-csv": "^5.0.2",
+		"moment": "^2.30.1",
+		"mongoose": "^8.8.4",
+		"morgan": "^1.10.0",
+		"multer": "^1.4.5-lts.1",
+		"sanitize-filename": "^1.6.3"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0",
+		"mock-fs": "^5.4.1",
+		"nodemon": "^3.1.7",
+		"sonarqube-scanner": "^4.2.6",
+		"supertest": "^7.0.0"
+	}
+}

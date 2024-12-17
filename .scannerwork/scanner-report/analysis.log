@@ -1,0 +1,38 @@
+SonarQube plugins:
+  - Python Code Quality and Security 3.4.1.8066 (python)
+  - CSS Code Quality and Security 1.4.2.2002 (cssfamily)
+  - Go Code Quality and Security 1.8.3.2219 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 1.8.3.2219 (kotlin)
+  - JavaScript/TypeScript Code Quality and Security 7.4.4.15624 (javascript)
+  - Ruby Code Quality and Security 1.8.3.2219 (ruby)
+  - Scala Code Quality and Security 1.8.3.2219 (sonarscala)
+  - C# Code Quality and Security 8.22.0.31243 (csharp)
+  - Java Code Quality and Security 6.15.1.26025 (java)
+  - HTML Code Quality and Security 3.4.0.2754 (web)
+  - Flex Code Quality and Security 2.6.1.2564 (flex)
+  - XML Code Quality and Security 2.2.0.2973 (xml)
+  - PHP Code Quality and Security 3.17.0.7439 (php)
+  - VB.NET Code Quality and Security 8.22.0.31243 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AZOztp9_sPincu2rE6sS
+  - sonar.core.startTime=2024-12-16T09:47:16+0800
+  - sonar.forceAuthentication=true
+Project server settings:
+Project scanner properties:
+  - sonar.exclusions=node_modules/**
+  - sonar.host.url=http://localhost:9000
+  - sonar.language=js
+  - sonar.login=******
+  - sonar.projectBaseDir=C:\Users\charly.dalagon\bars-service.charly.dalagon
+  - sonar.projectDescription=Scan project.
+  - sonar.projectKey=bars-service.charly.dalagon
+  - sonar.projectName=BARS Service
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.2.2472
+  - sonar.scm.disabled=true
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=./
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\charly.dalagon\bars-service.charly.dalagon\.scannerwork

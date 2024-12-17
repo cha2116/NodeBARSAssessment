@@ -1,0 +1,6 @@
+projectKey=bars-service.charly.dalagon
+serverUrl=http://localhost:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://localhost:9000/dashboard?id=bars-service.charly.dalagon
+ceTaskId=AZPOC2OUSR3YQjhcMyri
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZPOC2OUSR3YQjhcMyri
